@@ -45,7 +45,6 @@ https://github.com/user-attachments/assets/1d306829-00de-44f5-8a58-5795ff45d80c
 
 ## 💬 Let's Connect!
 
-- [Chat on Telegram](https://t.me/plzbugmenot)
-- [Drop me a mail](mailto:pleasebugmenot.dev@gmail.com)
+- [Chat on Telegram](https://t.me/999sol)
 
 Happy sniping! 🎯✨
