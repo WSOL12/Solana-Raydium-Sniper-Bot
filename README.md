@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/1d306829-00de-44f5-8a58-5795ff45d80c
 
 ## 🚀 Quick Start
 
-1. git clone `https://github.com/plzbugmenot/Solana_Raydium_Sniper_Bot.git`
+1. git clone `https://github.com/999sol/Solana_Raydium_Sniper_Bot.git`
 2. `cd Solana_Raydium_Sniper_Bot`
 3. Install the dependencies: `npm i`
 4. Fill in `.env` (if you have no RPC, Quicknode/Helius is pretty good & free)
